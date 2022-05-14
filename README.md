@@ -1,7 +1,7 @@
 # http-fuzzing-scripts
 
 <p align="center">
-  A script to dump files and folders remotely from a Windows SMB share.
+  A collection of http fuzzing python scripts to fuzz HTTP servers for bugs.
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/p0dalirius/http-fuzzing-scripts">
   <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>

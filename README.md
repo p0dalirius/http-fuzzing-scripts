@@ -1,4 +1,4 @@
-# http-fuzzing-scripts
+![](./.github/banner.png)
 
 <p align="center">
   A collection of http fuzzing python scripts to fuzz HTTP servers for bugs.
@@ -13,10 +13,6 @@
 
  - [x] [find-maximum-url-length.py](./maximum-url-dichotomic/find-maximum-url-length.py)
    + Find the maximum URL length accepted by the remote server
- - [x] [](./maximum-url-dichotomic/find-maximum-url-length.py)
-   + 
- - [x] [](./maximum-url-dichotomic/find-maximum-url-length.py)
-   + 
 
 ## Contributing
 
